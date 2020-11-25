@@ -80,7 +80,7 @@
         <activity android:name=".Med_Activity.Med_5F_Activity"/>
         <activity android:name=".Med_Activity.Med_6F_Activity"/>
         <activity android:name=".Med_Activity.Med_7F_Activity"/>
-
+        
         <activity
             android:name=".FirstScreenActivity"
             android:screenOrientation="portrait"
